@@ -1,1 +1,0 @@
-Modeling assets for our game
